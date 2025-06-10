@@ -2,15 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
+subtitle: School of Computer Science, Shanghai Jiao Tong University
 profile:
   align: right
   image: profile_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>yuanguo2004@gmail.com</p>
-    <p>Shanghai Jiao Tong University</p>
+    <p>Shanghai Jiao Tong University, No. 800 Dongchuan Road</p>
     <p>Shanghai, China</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
