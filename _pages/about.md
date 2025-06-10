@@ -24,7 +24,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a junior undergraduate in Yongqiang honor class of computer science, School of Computer Science, Shanghai Jiao Tong University. Currently, I'm working with Prof. [Zhuosheng Zhang](https://bcmi.sjtu.edu.cn/~zhangzs/). My research experience is further enriched by a concurrent internship at [Langboat Technology](https://www.langboat.com/en), where I enjoy the honor of working closely with Prof. [Ming Zhou](https://scholar.google.co.jp/citations?user=a0w5c0gAAAAJ&hl=en) (ACL fellow).
+I am a junior undergraduate in Yongqiang honor class of computer science, School of Computer Science, Shanghai Jiao Tong University. Currently, I'm working with Prof. [Zhuosheng Zhang](https://bcmi.sjtu.edu.cn/~zhangzs/). My research experience is further enriched by a concurrent internship at [Langboat Technology](https://www.langboat.com/en), where I enjoy the privilege of working closely with Prof. [Ming Zhou](https://scholar.google.co.jp/citations?user=a0w5c0gAAAAJ&hl=en) (ACL fellow).
 
 My research interests broadly lie in Natural Language Processing, Large Language Models, and their interdisciplinary applications. Recently, I have been focusing on computer-using agents and agent safety.
 
