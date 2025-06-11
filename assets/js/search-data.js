@@ -481,13 +481,6 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/yuan-guo-62b922328# your LinkedIn user name", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
