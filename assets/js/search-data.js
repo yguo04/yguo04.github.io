@@ -412,14 +412,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-patent-on-gui-agent-personalization-has-been-officially-granted-cn202510136285-x-grateful-to-my-mentor-ryan-for-the-support-throughout-this-journey",
-          title: 'Our patent on GUI agent personalization has been officially granted(CN202510136285.X). Grateful to my...',
+            },},{id: "news-our-patent-on-gui-agent-personalization-has-been-officially-granted-cn119576470b-grateful-to-my-mentor-ryan-for-the-support-throughout-this-journey",
+          title: 'Our patent on GUI agent personalization has been officially granted(CN119576470B). Grateful to my...',
           description: "",
           section: "News",},{id: "news-we-have-released-eva-a-red-teaming-framework-for-gui-agents-with-indirect-prompt-injection-kudos-to-yijie",
           title: 'We have released EVA, a red teaming framework for GUI agents with indirect...',
           description: "",
           section: "News",},{id: "news-sparkles-i-m-very-proud-to-release-the-recent-work-led-by-me-ui-nexus-introduction-video-demo-and-paper-are-available-in-the-project-link-now-we-introduce-a-comprehensive-benchmark-ui-nexus-for-compositional-mobile-device-operation-tasks-and-propose-a-scheduling-system-for-mobile-agent-agent-nexus-thanks-to-all-my-awesome-collaborators",
-          title: ':sparkles: I’m very proud to release the recent work led by me, ui-nexus)...',
+          title: ':sparkles: I’m very proud to release the recent work led by me, ui-nexus(introduction...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
