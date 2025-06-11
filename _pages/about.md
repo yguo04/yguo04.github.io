@@ -28,6 +28,6 @@ I am a junior undergraduate in Yongqiang honor class of computer science, School
 
 My research interests broadly lie in Natural Language Processing, Large Language Models, and their interdisciplinary applications. Recently, I have been focusing on computer-using agents and agent safety.
 
-I have received the National Scholarship of the People’s Republic of China (awarded to the top 0.2% of students nationwide), the Fan Xuji Scholarship at SJTU (awarded to 15 outstanding undergraduates annually), as well as the SJTU Academic Scholarship and the Yongqiang Encouragement Scholarship. I have earned straight A grades in all undergraduate courses related to mathematics and physics, and I’m a member of Fan-Xuji and Rongchang alumni associations.
+I have received the National Scholarship of the People’s Republic of China (awarded to the top 0.2% of students nationwide), the Fan-Xuji Scholarship at SJTU (awarded to 15 outstanding undergraduates annually), as well as the SJTU Academic Scholarship and the Yongqiang Encouragement Scholarship. I have earned straight A grades in all undergraduate courses related to mathematics and physics, and I’m a member of Fan-Xuji and Rongchang alumni associations.
 
 🔥 I am actively looking for a PhD position starting from 26 fall! 🔥 
