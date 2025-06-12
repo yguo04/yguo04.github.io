@@ -1,12 +1,11 @@
 {
   "basics": {
     "name": "Yuan Guo",
-    "label": "Ph.D. Program Application",
     "image": "",
     "email": "yuanguo2004@gmail.com",
     "phone": "",
     "url": "https://yguo04.github.io/",
-    "summary": "Undergraduate student in Computer Science at Shanghai Jiao Tong University, applying for Ph.D. programs. Research interests in AI agents, machine learning, and computer vision.",
+    "summary": "Junior undergraduate in Computer Science at Shanghai Jiao Tong University, looking for Ph.D. programs. Research interests in LLMs & AI agents.",
     "location": {
       "address": "No. 800 Dongchuan Road",
       "postalCode": "200240",
@@ -42,8 +41,7 @@
       "endDate": "present",
       "summary": "Research on autonomous GUI agent and agent safety under Prof Zhuosheng Zhang.",
       "highlights": [
-        "Studied topics about autonomous GUI agent, agent safety etc",
-        "Core contributor to the Huawei Intelligent GUI agent project"
+        "Studied topics about autonomous GUI agent, agent safety etc"
       ]
     }
   ],
@@ -55,11 +53,7 @@
       "area": "Computer Science and Technology",
       "studyType": "Undergraduate (Yongqiang Honor Class)",
       "startDate": "2022-08",
-      "endDate": "2026-06",
-      "courses": [
-        "Major courses: C/C++/Linux/Shell, LaTeX, git, RISC-V Verilog",
-        "Member of Yongqiang Chucai Talent program for top students undergraduate"
-      ]
+      "endDate": "2026-06(expected)"
     },
     {
       "institution": "Zhenhai High School, Zhejiang Province", 
@@ -67,8 +61,7 @@
       "area": "Advanced Class of Sciences",
       "studyType": "High School",
       "startDate": "2019-08",
-      "endDate": "2022-06",
-      "courses": ["Achieved level: outstanding graduate"]
+      "endDate": "2022-06"
     }
   ],
   "skills": [
@@ -91,7 +84,7 @@
       "name": "English",
       "level": "Advanced", 
       "keywords": [
-        "TOEFL: 107/120", "Speaking: 25/30", "CT 14: 63/70"
+        "TOEFL: 107/120", "CET-6: 635/710"
       ]
     },
     {
@@ -110,7 +103,7 @@
       "summary": "(top 0.2% nationwide)"
     },
     {
-      "title": "Fan-Kuji Scholarship", 
+      "title": "Fan-xuji Scholarship", 
       "date": "2024",
       "awarder": "Shanghai Jiao Tong University",
       "summary": "(15 excellent second-year undergraduates in SJTU)"
@@ -126,11 +119,6 @@
       "date": "2023, 2024",
       "awarder": "Shanghai Jiao Tong University", 
       "summary": "(top 10%)"
-    },
-    {
-      "title": "Second Prize, Shanghai Undergraduate Mathematical Contest in Modeling",
-      "date": "2023",
-      "awarder": "Shanghai Mathematical Society"
     }
   ],
   "certificates": [],
@@ -142,27 +130,7 @@
     },
     {
       "language": "English", 
-      "fluency": "Fluent",
-      "details": "TOEFL: 107/120"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Research",
-      "keywords": [
-        "AI Agents",
-        "Machine Learning", 
-        "Computer Vision",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "name": "Technology",
-      "keywords": [
-        "Open Source Contribution",
-        "Tech Blogging",
-        "Innovation"
-      ]
+      "fluency": "Full professional proficiency"
     }
   ],
   "references": [],
