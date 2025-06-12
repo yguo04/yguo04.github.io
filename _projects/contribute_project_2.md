@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Community Research Initiative
-description: Contributing to collaborative research project
-img: assets/img/4.jpg
+title: Dive-into-LLMs
+description: I contributed to the GUI agent tutorial of Dive-into-LLMs repository.
+img: assets/img/dive_into.png
 importance: 2
 category: contribute
-redirect: https://example.com/community-research
+redirect: https://github.com/Lordog/dive-into-llms
 ---
 
 Contributing to a multi-institutional research initiative focused on advancing computer vision and natural language processing technologies.
