@@ -476,14 +476,14 @@ ninja.data = [{
           description: "Contributing to collaborative research project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/contribute_project_2/";
-            },},{id: "projects-ai-research-project",
-          title: 'AI Research Project',
-          description: "Leading AI research initiative at SJTU",
+            },},{id: "projects-ui-nexus",
+          title: 'UI-NEXUS',
+          description: "We introduce UI-NEXUS, a comprehensive benchmark for compositional mobile device operation tasks. And we propose Agent-NEXUS, a scheduling system for compositional task automation.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/lead_project_1/";
-            },},{id: "projects-rongchang-ai-club",
-          title: 'Rongchang AI Club',
-          description: "Co-founded AI club for student innovation",
+            },},{id: "projects-opsorbital",
+          title: 'OpsOrbital',
+          description: "Real-time service operations from your pocket. Voted as the most popular project in Computer Network(honor) course.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/lead_project_2/";
             },},{
