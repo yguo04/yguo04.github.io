@@ -466,14 +466,14 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-open-source-ml-library",
-          title: 'Open Source ML Library',
-          description: "Contributing to popular machine learning framework",
+            },},{id: "projects-awesome-gui",
+          title: 'Awesome-GUI',
+          description: "A curated list of papers, projects, and resources for multi-modal Graphical User Interface (GUI) agents.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/contribute_project_1/";
-            },},{id: "projects-community-research-initiative",
-          title: 'Community Research Initiative',
-          description: "Contributing to collaborative research project",
+            },},{id: "projects-dive-into-llms",
+          title: 'Dive-into-LLMs',
+          description: "I contributed to the GUI agent tutorial of Dive-into-LLMs repository.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/contribute_project_2/";
             },},{id: "projects-ui-nexus",
