@@ -1,8 +1,8 @@
 ---
 layout: page
-title: misc
+title: Miscellaneous
 permalink: /misc/
-description: Personal interests, hobbies, and places I've been to.
+description: 
 nav: true
 nav_order: 9
 ---
