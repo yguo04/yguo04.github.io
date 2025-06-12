@@ -14,7 +14,7 @@ nav_order: 1
     <i class="fa-solid fa-newspaper"></i>
     Tech Articles
   </h2>
-  <p class="section-description">Articles published on my WeChat tech blog and other platforms.</p>
+  <p class="section-description">Tech blogs by me</p>
   
   <div class="articles-grid">
     
@@ -23,40 +23,12 @@ nav_order: 1
         <i class="fa-brands fa-weixin"></i>
       </div>
       <div class="article-content">
-        <h3><a href="https://mp.weixin.qq.com/your-article-1" target="_blank">AI技术在计算机视觉中的最新发展</a></h3>
+        <h3><a href="https://mp.weixin.qq.com/s/GRGlDqUvBX3DWIF1jXdviA" target="_blank">“AI玩手机”原理揭秘：大模型驱动的移动端GUI智能体</a></h3>
         <p class="article-meta">
-          <span class="platform">微信公众号</span>
-          <span class="date">2024年3月</span>
+          <span class="platform">澜舟科技</span>
+          <span class="date">2024年11月</span>
         </p>
-        <p class="article-description">探讨人工智能在计算机视觉领域的最新突破和应用前景。</p>
-      </div>
-    </div>
-
-    <div class="article-item">
-      <div class="article-icon">
-        <i class="fa-brands fa-weixin"></i>
-      </div>
-      <div class="article-content">
-        <h3><a href="https://mp.weixin.qq.com/your-article-2" target="_blank">深度学习模型优化技术详解</a></h3>
-        <p class="article-meta">
-          <span class="platform">微信公众号</span>
-          <span class="date">2024年2月</span>
-        </p>
-        <p class="article-description">深入分析深度学习模型优化的各种技术方法和实践经验。</p>
-      </div>
-    </div>
-
-    <div class="article-item">
-      <div class="article-icon">
-        <i class="fa-brands fa-weixin"></i>
-      </div>
-      <div class="article-content">
-        <h3><a href="https://mp.weixin.qq.com/your-article-3" target="_blank">机器学习在实际项目中的应用案例</a></h3>
-        <p class="article-meta">
-          <span class="platform">微信公众号</span>
-          <span class="date">2024年1月</span>
-        </p>
-        <p class="article-description">分享机器学习技术在实际项目开发中的具体应用和心得体会。</p>
+        <p class="article-description">移动端GUI智能体的解析和探讨</p>
       </div>
     </div>
 
@@ -70,7 +42,7 @@ nav_order: 1
     <i class="fa-solid fa-presentation-screen"></i>
     Presentations & Talks
   </h2>
-  <p class="section-description">Technical presentations and talks I've given at conferences and events.</p>
+  <p class="section-description">Presentations and talks by me.</p>
   
   <div class="presentations-grid">
     
