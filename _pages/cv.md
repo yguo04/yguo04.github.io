@@ -5,6 +5,6 @@ title: cv
 nav: true
 nav_order: 1
 cv_pdf: example_pdf.pdf # you can also use external links here
-description: This page includes my brief CV.
-  sidebar: left
+description: This page includes my brief CV
+sidebar: left
 ---
