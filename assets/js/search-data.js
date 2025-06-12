@@ -466,6 +466,26 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-open-source-ml-library",
+          title: 'Open Source ML Library',
+          description: "Contributing to popular machine learning framework",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/contribute_project_1/";
+            },},{id: "projects-community-research-initiative",
+          title: 'Community Research Initiative',
+          description: "Contributing to collaborative research project",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/contribute_project_2/";
+            },},{id: "projects-ai-research-project",
+          title: 'AI Research Project',
+          description: "Leading AI research initiative at SJTU",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/lead_project_1/";
+            },},{id: "projects-rongchang-ai-club",
+          title: 'Rongchang AI Club',
+          description: "Co-founded AI club for student innovation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/lead_project_2/";
             },},{
         id: 'social-email',
         title: 'email',
