@@ -51,12 +51,11 @@ nav_order: 1
         <i class="fa-solid fa-file-pdf"></i>
       </div>
       <div class="presentation-content">
-        <h3><a href="/assets/pdf/ai-research-presentation.pdf" target="_blank">AI Research Progress at SJTU</a></h3>
+        <h3><a href="/assets/pdf/nexus_talk_may.pdf" target="_blank">OS智能体原子任务到复合任务的能力泛化研究与系统调度方法</a></h3>
         <p class="presentation-meta">
-          <span class="venue">International AI Conference</span>
-          <span class="date">2024年4月</span>
+          <span class="date">2025.05</span>
         </p>
-        <p class="presentation-description">Presented our latest AI research findings and methodologies at the international conference.</p>
+        <p class="presentation-description">Shared our latest work and findings on compositional device-using tasks.</p>
       </div>
     </div>
 
@@ -65,26 +64,12 @@ nav_order: 1
         <i class="fa-solid fa-file-pdf"></i>
       </div>
       <div class="presentation-content">
-        <h3><a href="/assets/pdf/machine-learning-workshop.pdf" target="_blank">Machine Learning Workshop for Students</a></h3>
+        <h3><a href="/assets/pdf/澜舟大模型沙龙_郭源_v3_share.pdf" target="_blank">大模型智能体技术科普</a></h3>
         <p class="presentation-meta">
-          <span class="venue">SJTU Student Seminar</span>
-          <span class="date">2024年3月</span>
+          <span class="venue">Salon in Langboat Tech</span>
+          <span class="date">2025.03</span>
         </p>
-        <p class="presentation-description">Educational workshop introducing machine learning concepts to undergraduate students.</p>
-      </div>
-    </div>
-
-    <div class="presentation-item">
-      <div class="presentation-icon">
-        <i class="fa-solid fa-file-pdf"></i>
-      </div>
-      <div class="presentation-content">
-        <h3><a href="/assets/pdf/industry-collaboration.pdf" target="_blank">Industry-Academia Collaboration in AI</a></h3>
-        <p class="presentation-meta">
-          <span class="venue">Tech Industry Forum</span>
-          <span class="date">2024年2月</span>
-        </p>
-        <p class="presentation-description">Discussion on bridging the gap between academic research and industry applications.</p>
+        <p class="presentation-description">I hosted a tech salon in Langboat technology sharing LLM agent technology.</p>
       </div>
     </div>
 
