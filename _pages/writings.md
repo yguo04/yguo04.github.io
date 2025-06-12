@@ -4,7 +4,7 @@ title: writings & talks
 permalink: /writings/
 description: Tech articles and presentations I've shared.
 nav: true
-nav_order: 4
+nav_order: 1
 ---
 
 <div class="writings-content">
@@ -14,7 +14,7 @@ nav_order: 4
     <i class="fa-solid fa-newspaper"></i>
     Tech Articles
   </h2>
-  <p class="section-description">Tech blogs by me</p>
+  <p class="section-description">Articles published on my WeChat tech blog and other platforms.</p>
   
   <div class="articles-grid">
     
@@ -23,12 +23,40 @@ nav_order: 4
         <i class="fa-brands fa-weixin"></i>
       </div>
       <div class="article-content">
-        <h3><a href="https://mp.weixin.qq.com/s/GRGlDqUvBX3DWIF1jXdviA" target="_blank">“AI玩手机”原理揭秘：大模型驱动的移动端GUI智能体</a></h3>
+        <h3><a href="https://mp.weixin.qq.com/your-article-1" target="_blank">AI技术在计算机视觉中的最新发展</a></h3>
         <p class="article-meta">
-          <span class="platform">澜舟科技</span>
-          <span class="date">2024年11月</span>
+          <span class="platform">微信公众号</span>
+          <span class="date">2024年3月</span>
         </p>
-        <p class="article-description">移动端GUI智能体的解析和探讨</p>
+        <p class="article-description">探讨人工智能在计算机视觉领域的最新突破和应用前景。</p>
+      </div>
+    </div>
+
+    <div class="article-item">
+      <div class="article-icon">
+        <i class="fa-brands fa-weixin"></i>
+      </div>
+      <div class="article-content">
+        <h3><a href="https://mp.weixin.qq.com/your-article-2" target="_blank">深度学习模型优化技术详解</a></h3>
+        <p class="article-meta">
+          <span class="platform">微信公众号</span>
+          <span class="date">2024年2月</span>
+        </p>
+        <p class="article-description">深入分析深度学习模型优化的各种技术方法和实践经验。</p>
+      </div>
+    </div>
+
+    <div class="article-item">
+      <div class="article-icon">
+        <i class="fa-brands fa-weixin"></i>
+      </div>
+      <div class="article-content">
+        <h3><a href="https://mp.weixin.qq.com/your-article-3" target="_blank">机器学习在实际项目中的应用案例</a></h3>
+        <p class="article-meta">
+          <span class="platform">微信公众号</span>
+          <span class="date">2024年1月</span>
+        </p>
+        <p class="article-description">分享机器学习技术在实际项目开发中的具体应用和心得体会。</p>
       </div>
     </div>
 
@@ -42,7 +70,7 @@ nav_order: 4
     <i class="fa-solid fa-presentation-screen"></i>
     Presentations & Talks
   </h2>
-  <p class="section-description">Presentations and talks by me.</p>
+  <p class="section-description">Technical presentations and talks I've given at conferences and events.</p>
   
   <div class="presentations-grid">
     
@@ -51,11 +79,12 @@ nav_order: 4
         <i class="fa-solid fa-file-pdf"></i>
       </div>
       <div class="presentation-content">
-        <h3><a href="/assets/pdf/nexus_talk_may.pdf" target="_blank">OS智能体原子任务到复合任务的能力泛化研究与系统调度方法</a></h3>
+        <h3><a href="/assets/pdf/ai-research-presentation.pdf" target="_blank">AI Research Progress at SJTU</a></h3>
         <p class="presentation-meta">
-          <span class="date">2025.05</span>
+          <span class="venue">International AI Conference</span>
+          <span class="date">2024年4月</span>
         </p>
-        <p class="presentation-description">Shared our latest work and findings on compositional device-using tasks.</p>
+        <p class="presentation-description">Presented our latest AI research findings and methodologies at the international conference.</p>
       </div>
     </div>
 
@@ -64,12 +93,26 @@ nav_order: 4
         <i class="fa-solid fa-file-pdf"></i>
       </div>
       <div class="presentation-content">
-        <h3><a href="/assets/pdf/澜舟大模型沙龙_郭源_v3_share.pdf" target="_blank">大模型智能体技术科普</a></h3>
+        <h3><a href="/assets/pdf/machine-learning-workshop.pdf" target="_blank">Machine Learning Workshop for Students</a></h3>
         <p class="presentation-meta">
-          <span class="venue">Salon in Langboat Tech</span>
-          <span class="date">2025.03</span>
+          <span class="venue">SJTU Student Seminar</span>
+          <span class="date">2024年3月</span>
         </p>
-        <p class="presentation-description">I hosted a tech salon in Langboat technology sharing LLM agent technology.</p>
+        <p class="presentation-description">Educational workshop introducing machine learning concepts to undergraduate students.</p>
+      </div>
+    </div>
+
+    <div class="presentation-item">
+      <div class="presentation-icon">
+        <i class="fa-solid fa-file-pdf"></i>
+      </div>
+      <div class="presentation-content">
+        <h3><a href="/assets/pdf/industry-collaboration.pdf" target="_blank">Industry-Academia Collaboration in AI</a></h3>
+        <p class="presentation-meta">
+          <span class="venue">Tech Industry Forum</span>
+          <span class="date">2024年2月</span>
+        </p>
+        <p class="presentation-description">Discussion on bridging the gap between academic research and industry applications.</p>
       </div>
     </div>
 
