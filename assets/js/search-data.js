@@ -471,9 +471,9 @@ ninja.data = [{
           description: "A curated list of papers, projects, and resources for multi-modal Graphical User Interface (GUI) agents.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/contribute_project_1/";
-            },},{id: "projects-community-research-initiative",
-          title: 'Community Research Initiative',
-          description: "Contributing to collaborative research project",
+            },},{id: "projects-dive-into-llms",
+          title: 'Dive-into-LLMs',
+          description: "I contributed to the GUI agent tutorial of Dive-into-LLMs repository.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/contribute_project_2/";
             },},{id: "projects-ui-nexus",
