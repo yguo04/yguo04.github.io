@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Yuan Guo
     - name: Date of Birth
-      value: 14th March 1879
+      value: 15th April 2004
     - name: Languages
-      value: English, German
+      value: English, Chinese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Undergraduate
+      institution: Shanghai Jiao Tong University, Shanghai, China
+      year: 2022 - 2026(expected)
       description:
         - Description 1.
         - Description 2.

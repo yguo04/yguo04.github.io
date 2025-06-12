@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-5-20
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+We have released [EVA](https://arxiv.org/abs/2505.14289), a red teaming framework for GUI agents with indirect prompt injection. Kudos to Yijie:) 
