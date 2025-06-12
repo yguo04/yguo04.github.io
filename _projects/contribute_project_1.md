@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Open Source ML Library
-description: Contributing to popular machine learning framework
-img: assets/img/3.jpg
+title: Awesome-GUI 
+description: A curated list of papers, projects, and resources for multi-modal Graphical User Interface (GUI) agents.
+img: assets/img/awesome_gui.webp
 importance: 1
 category: contribute
-redirect: https://github.com/popular-ml-framework
+redirect: https://github.com/showlab/Awesome-GUI-Agent
 ---
 
 Active contributor to a popular open-source machine learning library, focusing on improving performance and adding new features.
