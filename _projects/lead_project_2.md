@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Rongchang AI Club
-description: Co-founded AI club for student innovation
-img: assets/img/2.jpg
+title: OpsOrbital
+description: Real-time service operations from your pocket. Voted as the most popular project in Computer Network(honor) course.
+img: assets/img/opsorbital.png
 importance: 2
 category: lead
-redirect: https://example.com/rongchang-ai-club
+redirect: https://opsorbital.github.io/
 ---
 
 Co-founded and leading the Rongchang AI Club, a platform for students to explore artificial intelligence, machine learning, and innovative technologies.

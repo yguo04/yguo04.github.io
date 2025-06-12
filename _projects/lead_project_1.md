@@ -1,11 +1,11 @@
 ---
 layout: page
-title: AI Research Project
-description: Leading AI research initiative at SJTU
-img: assets/img/1.jpg
+title: UI-NEXUS
+description: We introduce UI-NEXUS, a comprehensive benchmark for compositional mobile device operation tasks. And we propose Agent-NEXUS, a scheduling system for compositional task automation.
+img: assets/img/agent_nexus.png
 importance: 1
 category: lead
-redirect: https://github.com/your-username/ai-research-project
+redirect: https://ui-nexus.github.io/
 ---
 
 This is a leading AI research project focused on developing innovative machine learning algorithms. The project involves cutting-edge research in deep learning and neural networks.
