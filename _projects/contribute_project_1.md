@@ -2,7 +2,7 @@
 layout: page
 title: Awesome-GUI 
 description: A curated list of papers, projects, and resources for multi-modal Graphical User Interface (GUI) agents.
-img: assets/img/awesome_gui.webp
+img: assets/img/awesome_awesome_gui.png
 importance: 1
 category: contribute
 redirect: https://github.com/showlab/Awesome-GUI-Agent
