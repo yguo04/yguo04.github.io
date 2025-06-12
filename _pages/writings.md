@@ -4,7 +4,7 @@ title: writings & talks
 permalink: /writings/
 description: Tech articles and presentations I've shared.
 nav: true
-nav_order: 1
+nav_order: 4
 ---
 
 <div class="writings-content">
