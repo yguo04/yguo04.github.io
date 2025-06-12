@@ -9,7 +9,7 @@ nav_order: 9
 
 <div class="misc-content">
 
-<p>I'm deeply drawn to the humanities and the arts. I'm trained in Chinese calligraphy and poetry, and music has long been part of my life — I enjoy symphonies and live shows, and I rap as well. I once organized a <a href="#" onclick="openImageModal('rock-concert-image')" style="text-decoration: none; color: #007bff; cursor: pointer;">concert at SJTU</a>, and recently <a href="https://www.youtube.com/watch?v=Kl0-Pdo0vi8" target="_blank" style="text-decoration: none; color: #007bff;">Vltava</a> has been echoing in my mind.</p>
+<p>I'm deeply drawn to the humanities and the arts. I'm trained in Chinese calligraphy and poetry, and music has long been part of my life — I enjoy symphonies and live shows, and I do some rap and violin. I once organized a <a href="#" onclick="openImageModal('rock-concert-image')" style="text-decoration: none; color: #007bff; cursor: pointer;">concert at SJTU</a>, and recently <a href="https://www.youtube.com/watch?v=Kl0-Pdo0vi8" target="_blank" style="text-decoration: none; color: #007bff;">Vltava</a> has been echoing in my mind.</p>
 
 <p>I stay active through speed cycling, tennis, ping pong, volleyball, and swimming.</p>
 
