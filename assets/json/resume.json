@@ -122,7 +122,52 @@
     }
   ],
   "certificates": [],
-  "publications": [],
+  "publications": [
+    {
+      "name": "Atomic-to-Compositional Generalization for Mobile Agents with A New Benchmark and Scheduling System",
+      "publisher": "arXiv preprint",
+      "releaseDate": "2025-06",
+      "authors": "Yuan Guo, Thomas Miao, Zheng Wu, Peizhou Cheng, Ming Zhou, Zhuosheng Zhang",
+      "summary": "Introduced a comprehensive benchmark UI-NEXUS for mobile agents on compositional tasks and proposed a scheduling system for atomic-to-compositional generalization for existing mobile (computer-using) agents."
+    },
+    {
+      "name": "EVA: Red-Teaming GUI Agents via Evolving Indirect Prompt Injection",
+      "publisher": "arXiv preprint",
+      "releaseDate": "2025-05",
+      "authors": "Yue Li, Tianle Ju, Manman Zhao, Xinrui Ma, Yuan Guo, Zhuosheng Zhang",
+      "summary": "We propose EVA, a red-teaming framework for indirect prompt injection which transforms the attack into a closed-loop optimization by continuously monitoring an agent's attention distribution over the GUI and updating adversarial cues—keywords, phrasing, and layout—in response."
+    },
+    {
+      "name": "Universal Confidence Integration Framework for Adaptive Interaction in Computer-Using Agents",
+      "publisher": "under review",
+      "releaseDate": "2025-05",
+      "authors": "Zheng Wu, Peizhou Cheng, Zongru Wu, Yuan Guo, Gongshen Liu, Zhuosheng Zhang",
+      "summary": "A framework for blending agents for adaptive, human-in-the-loop human-agent-device co-interaction. PAMI submission."
+    },
+    {
+      "name": "Plan, Generate and Match: Scientific Workflow Recommendation with Large Language Models",
+      "publisher": "ICSOC 2023",
+      "releaseDate": "2023-11",
+      "authors": "Yang Gu, Jian Cao, Yuan Guo, Shirou Qian, Wei Guan",
+      "summary": "We propose 'Plan, Generate and Match' (PGM), a scientific workflow recommendation method leveraging LLMs. PGM consists of three stages: utilizing LLMs for planning by generating a user query, generating a structured workflow specification from Solution Steps, and using these plans and specifications to match with candidate workflows."
+    },
+    {
+      "name": "BeHonest: Benchmarking Honesty of Large Language Models",
+      "publisher": "arXiv preprint",
+      "releaseDate": "2024-06",
+      "authors": "Steffi Chern, Zhulin Hu, Yuqing Yang, Ethan Chern, Yuan Guo, Jiahe Jin, Binjie Wang, Pengfei Liu",
+      "summary": "In this paper, we introduce BeHonest, a pioneering benchmark specifically designed to assess honesty in LLMs comprehensively. BeHonest evaluates three essential aspects of honesty: awareness of knowledge boundaries, avoidance of deceit, and consistency of responses."
+    }
+  ],
+  "patents": [
+    {
+      "title": "针对GUI智能体的模型构建方法、程序产品及存储介质",
+      "patentNumber": "CN202510136285.X",
+      "issueDate": "2025-05-13",
+      "status": "Issued",
+      "summary": "A personalization technology for MLLM-powered GUI agents."
+    }
+  ],
   "languages": [
     {
       "language": "Chinese",
