@@ -13,7 +13,7 @@ nav_order: 9
 
 <p>I stay active through <a href="#" onclick="openImageModal('cycling-image')" style="text-decoration: none; color: #007bff; cursor: pointer;">speed cycling</a>, tennis, ping pong, volleyball, and swimming.</p>
 
-<p>I'm part of the <a href="https://youth.sjtu.edu.cn/qc_qmgc/3733.html" target="_blank" style="text-decoration: none; color: #007bff;">Rongchang Chucai Program</a> — a university-wide initiative for nurturing future leaders. Through it, I've led or joined meaningful social practice projects in Guangxi and the Greater Bay Area. I also co-founded the Rongchang AI Club and Jiaorong Tech.</p>
+<p>I'm part of the <a href="https://youth.sjtu.edu.cn/qc_qmgc/3733.html" target="_blank" style="text-decoration: none; color: #007bff;">Rongchang Chucai Program</a> — a university-wide initiative for nurturing future leaders. I co-founded the Rongchang AI Club and Jiaorong Tech.</p>
 
 <p>Lately, I've been exploring photography with my new camera.</p>
 
