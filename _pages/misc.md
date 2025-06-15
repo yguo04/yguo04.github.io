@@ -9,9 +9,9 @@ nav_order: 9
 
 <div class="misc-content">
 
-<p>I'm deeply drawn to the humanities and the arts. I'm trained in Chinese calligraphy and poetry, and music has long been part of my life — I enjoy symphonies and live shows, and I do some rap and violin. I once organized a <a href="#" onclick="openImageModal('rock-concert-image')" style="text-decoration: none; color: #007bff; cursor: pointer;">concert at SJTU</a>, and recently <a href="https://www.youtube.com/watch?v=Kl0-Pdo0vi8" target="_blank" style="text-decoration: none; color: #007bff;">Vltava</a> has been echoing in my mind.</p>
+<p>I'm deeply drawn to the humanities and the arts. I’m well-versed in Chinese calligraphy and poetry, and music has long been part of my life — I enjoy symphonies and live shows, and I do some rap and violin. I once organized a <a href="#" onclick="openImageModal('rock-concert-image')" style="text-decoration: none; color: #007bff; cursor: pointer;">concert at SJTU</a>, and recently <a href="https://www.youtube.com/watch?v=Kl0-Pdo0vi8" target="_blank" style="text-decoration: none; color: #007bff;">Vltava</a> has been echoing in my mind.</p>
 
-<p>I stay active through speed cycling, tennis, ping pong, volleyball, and swimming.</p>
+<p>I stay active through <a href="#" onclick="openImageModal('cycling-image')" style="text-decoration: none; color: #007bff; cursor: pointer;">speed cycling</a>, tennis, ping pong, volleyball, and swimming.</p>
 
 <p>I'm part of the <a href="https://youth.sjtu.edu.cn/qc_qmgc/3733.html" target="_blank" style="text-decoration: none; color: #007bff;">Rongchang Chucai Program</a> — a university-wide initiative for nurturing future leaders. Through it, I've led or joined meaningful social practice projects in Guangxi and the Greater Bay Area. I also co-founded the Rongchang AI Club and Jiaorong Tech.</p>
 
@@ -84,10 +84,14 @@ function openImageModal(imageId) {
   
   modal.style.display = "block";
   
-  // You can replace this with your actual rock concert image path
-  // For now, I'll use a placeholder - replace with your actual image
-  modalImg.src = "/assets/img/rock_concert.JPG"; // Replace with your actual image path
-  captionText.innerHTML = "Rock concert organized at SJTU - An unforgettable night of music and energy!";
+  // Set different images and captions based on imageId
+  if (imageId === 'rock-concert-image') {
+    modalImg.src = "/assets/img/rock_concert.JPG";
+    captionText.innerHTML = "Rock concert organized at SJTU - An unforgettable night of music and energy!";
+  } else if (imageId === 'cycling-image') {
+    modalImg.src = "/assets/img/cycling.jpg";
+    captionText.innerHTML = "Speed cycling - Embracing the wind and the freedom of the road!";
+  }
   
   // Prevent body scroll when modal is open
   document.body.style.overflow = 'hidden';
